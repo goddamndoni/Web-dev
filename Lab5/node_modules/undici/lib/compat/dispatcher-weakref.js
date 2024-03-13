@@ -28,8 +28,6 @@ class CompatFinalizer {
       })
     }
   }
-
-  unregister (key) {}
 }
 
 module.exports = function () {
